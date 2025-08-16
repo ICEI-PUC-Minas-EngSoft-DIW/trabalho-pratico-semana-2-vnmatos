@@ -18,14 +18,23 @@ div.canto {
     margin-left: 50px;
     width: 429px;
     font-size: 15px;
-    background-color: rgba(0, 0, 0, 0.11);
+    background-color:       rgb(0, 174, 255);
     padding: 20px;
    
 }
 
+div.canto img{
+    width: 400px;
+    height: 350px;
+    margin-bottom: -300px;
+    padding: 20px;
+    border-radius: 50px;
+    
+}
+
 div.meio {
     margin-left: 520px;
-    margin-top: -762px;
+    margin-top: -839px;
     margin-bottom: auto;
     padding: 20px;
     width: 900px;
@@ -33,7 +42,7 @@ div.meio {
     
     text-align: center;
    
-    background-color:   rgba(0, 0, 255, 0.167);
+    background-color:   rgb(255, 255, 255);
 }
 
 div.meio p{
@@ -43,6 +52,7 @@ div.meio p{
     
 }
 
+
 header #titulo{
     text-align: center;
     margin-top: 70px;
@@ -50,18 +60,25 @@ header #titulo{
     font-size: 50px;
     padding: 20px;
     padding-top: 60px;
+    color: white;
 }
 
 header p{
     text-align: center;
     margin-top: -110px;
     padding: 30px;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
 }
 
 header{
-    background-color: rgba(0, 0, 0, 0.274);
+    background-color: rgb(0, 0, 0);
     height: 200px;
     margin-top: -70px;
 
 }
+
+body{
+    background-color: black;
+}
+
