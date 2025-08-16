@@ -16,22 +16,52 @@ p {
 
 div.canto {
     margin-left: 50px;
-    width: 400px;
+    width: 429px;
     font-size: 15px;
     background-color: rgba(0, 0, 0, 0.11);
     padding: 20px;
-    border-radius: 20px;
+   
 }
 
 div.meio {
     margin-left: 520px;
-    margin-top: -740px;
+    margin-top: -762px;
     margin-bottom: auto;
     padding: 20px;
     width: 900px;
-    height: 400px;
-    border-radius: 20px;
+    height: 755px;
+    
+    text-align: center;
    
-    background-color: rgba(0, 0, 255, 0.167);
+    background-color:   rgba(0, 0, 255, 0.167);
 }
 
+div.meio p{
+    font-size: 20px;
+    width: 600px;
+    padding-left: 160px ;
+    
+}
+
+header #titulo{
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    font-size: 50px;
+    padding: 20px;
+    padding-top: 60px;
+}
+
+header p{
+    text-align: center;
+    margin-top: -110px;
+    padding: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+header{
+    background-color: rgba(0, 0, 0, 0.274);
+    height: 200px;
+    margin-top: -70px;
+
+}
